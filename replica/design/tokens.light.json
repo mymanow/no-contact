@@ -1,0 +1,267 @@
+{
+  "_about": "Tokens No Contact Tracker — thème clair. Mêmes rôles que tokens.json (sombre, défaut).",
+  "theme": "light",
+  "color": {
+    "bg": "#ffffff",
+    "surface": "#f5f6f8",
+    "surface-2": "#eceef2",
+    "border": "#e2e5ea",
+    "border-input": "#7a8391",
+    "text": "#14171c",
+    "text-muted": "#5a6371",
+    "text-subtle": "#636b78",
+    "accent": "#4f5bd5",
+    "on-accent": "#ffffff",
+    "panic": "#c2410c",
+    "on-panic": "#ffffff",
+    "danger": "#c62f2f",
+    "on-danger": "#ffffff",
+    "success": "#1f7a4d",
+    "warning": "#8a5a00",
+    "focus": "#4f5bd5",
+    "mood-1": "#dc2626",
+    "mood-2": "#c2410c",
+    "mood-3": "#a16207",
+    "mood-4": "#4d7c0f",
+    "mood-5": "#15803d"
+  },
+  "pairs": [
+    [
+      "text",
+      "bg"
+    ],
+    [
+      "text",
+      "surface"
+    ],
+    [
+      "text",
+      "surface-2"
+    ],
+    [
+      "text-muted",
+      "bg"
+    ],
+    [
+      "text-muted",
+      "surface"
+    ],
+    [
+      "text-muted",
+      "surface-2"
+    ],
+    [
+      "text-subtle",
+      "bg"
+    ],
+    [
+      "text-subtle",
+      "surface"
+    ],
+    [
+      "on-accent",
+      "accent"
+    ],
+    [
+      "accent",
+      "bg"
+    ],
+    [
+      "accent",
+      "surface"
+    ],
+    [
+      "on-panic",
+      "panic"
+    ],
+    [
+      "panic",
+      "bg"
+    ],
+    [
+      "on-danger",
+      "danger"
+    ],
+    [
+      "danger",
+      "bg"
+    ],
+    [
+      "danger",
+      "surface"
+    ],
+    [
+      "success",
+      "bg"
+    ],
+    [
+      "success",
+      "surface"
+    ],
+    [
+      "warning",
+      "bg"
+    ],
+    [
+      "warning",
+      "surface"
+    ],
+    [
+      "border-input",
+      "bg",
+      "ui"
+    ],
+    [
+      "border-input",
+      "surface",
+      "ui"
+    ],
+    [
+      "focus",
+      "bg",
+      "ui"
+    ],
+    [
+      "focus",
+      "surface",
+      "ui"
+    ],
+    [
+      "mood-1",
+      "surface",
+      "ui"
+    ],
+    [
+      "mood-2",
+      "surface",
+      "ui"
+    ],
+    [
+      "mood-3",
+      "surface",
+      "ui"
+    ],
+    [
+      "mood-4",
+      "surface",
+      "ui"
+    ],
+    [
+      "mood-5",
+      "surface",
+      "ui"
+    ]
+  ],
+  "font": {
+    "sans": "Inter",
+    "display": "Inter",
+    "mono": "JetBrains Mono",
+    "_note": "Open fonts (OFL). Le compteur utilise les chiffres tabulaires (fontVariant tabular-nums)."
+  },
+  "type": {
+    "xs": {
+      "size": 12,
+      "line": 16,
+      "weight": 500
+    },
+    "sm": {
+      "size": 14,
+      "line": 20,
+      "weight": 400
+    },
+    "base": {
+      "size": 16,
+      "line": 24,
+      "weight": 400
+    },
+    "lg": {
+      "size": 18,
+      "line": 26,
+      "weight": 600
+    },
+    "xl": {
+      "size": 22,
+      "line": 28,
+      "weight": 700
+    },
+    "2xl": {
+      "size": 28,
+      "line": 34,
+      "weight": 700
+    },
+    "display": {
+      "size": 40,
+      "line": 44,
+      "weight": 800
+    },
+    "counter": {
+      "size": 72,
+      "line": 76,
+      "weight": 800
+    }
+  },
+  "space": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    40,
+    48,
+    56,
+    64,
+    80,
+    96
+  ],
+  "layout": {
+    "screen-gutter": 20,
+    "tab-bar-height": 64,
+    "header-height": 56,
+    "touch-min": 48,
+    "panic-button": 64,
+    "max-content-width": 560
+  },
+  "radius": {
+    "sm": 8,
+    "md": 14,
+    "lg": 20,
+    "xl": 28,
+    "pill": 999
+  },
+  "shadow": {
+    "card": "0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.10)",
+    "pop": "0 12px 32px rgba(16,24,40,.16)",
+    "panic-glow": "0 0 0 8px rgba(194,65,12,.15)"
+  },
+  "motion": {
+    "fast": "120ms",
+    "base": "220ms",
+    "slow": "400ms",
+    "ease": "cubic-bezier(.2,.8,.2,1)",
+    "breath-box": [
+      4000,
+      4000,
+      4000,
+      4000
+    ],
+    "breath-478": [
+      4000,
+      7000,
+      8000,
+      0
+    ],
+    "breath-calm": [
+      4000,
+      0,
+      6000,
+      0
+    ],
+    "_note": "Respiration : inspirer, tenir, expirer, tenir (ms). Respecter Reduce Motion : l'animation devient un fondu + compte texte."
+  }
+}

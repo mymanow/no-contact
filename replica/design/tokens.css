@@ -1,0 +1,50 @@
+/* GÉNÉRÉ par mobile/scripts/build-tokens.mjs depuis replica/design/tokens*.json — ne pas éditer. */
+:root {
+  --color-bg: 14 16 20;
+  --color-surface: 22 26 33;
+  --color-surface-2: 31 36 45;
+  --color-border: 42 48 59;
+  --color-border-input: 111 121 136;
+  --color-text: 242 244 247;
+  --color-text-muted: 163 172 186;
+  --color-text-subtle: 138 147 162;
+  --color-accent: 142 155 255;
+  --color-on-accent: 14 16 20;
+  --color-panic: 255 143 107;
+  --color-on-panic: 14 16 20;
+  --color-danger: 255 107 107;
+  --color-on-danger: 14 16 20;
+  --color-success: 74 222 128;
+  --color-warning: 251 191 36;
+  --color-focus: 142 155 255;
+  --color-mood-1: 248 113 113;
+  --color-mood-2: 251 146 60;
+  --color-mood-3: 250 204 21;
+  --color-mood-4: 163 230 53;
+  --color-mood-5: 74 222 128;
+}
+
+.light {
+  --color-bg: 255 255 255;
+  --color-surface: 245 246 248;
+  --color-surface-2: 236 238 242;
+  --color-border: 226 229 234;
+  --color-border-input: 122 131 145;
+  --color-text: 20 23 28;
+  --color-text-muted: 90 99 113;
+  --color-text-subtle: 99 107 120;
+  --color-accent: 79 91 213;
+  --color-on-accent: 255 255 255;
+  --color-panic: 194 65 12;
+  --color-on-panic: 255 255 255;
+  --color-danger: 198 47 47;
+  --color-on-danger: 255 255 255;
+  --color-success: 31 122 77;
+  --color-warning: 138 90 0;
+  --color-focus: 79 91 213;
+  --color-mood-1: 220 38 38;
+  --color-mood-2: 194 65 12;
+  --color-mood-3: 161 98 7;
+  --color-mood-4: 77 124 15;
+  --color-mood-5: 21 128 61;
+}
