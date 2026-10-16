@@ -1,0 +1,45 @@
+feature,area,priority,original,clone,notes
+Sign up with email or Apple/Google,onboarding,must,yes,no,privacy label shows email + user ID
+Breakup story questionnaire,onboarding,must,yes,no,feeds coach personalization (S02)
+Custom no contact rules and goal duration,onboarding,must,yes,no,added v1.0.23 (S03)
+Pledge with start date,onboarding,must,yes,no,S04
+Paywall with free trial and weekly/monthly/quarterly/yearly plans,monetization,must,yes,no,10 IAP on App Store; price variants suggest A/B tests (S05)
+Notification permission and daily reminders,notifications,must,yes,no,S06
+No contact day counter with milestones,home,must,yes,no,S07
+Daily check-in with mood and urge level,check-in,must,yes,no,redesigned v1.0.33 (S08)
+One-tap panic button from anywhere,panic,must,yes,no,S09
+Panic flow: guided breathing + affirmations + reminders of red flags,panic,must,yes,no,Reality Check v1.0.4; must work offline
+Red flags / dealbreakers / ick list,counter-nostalgia,must,yes,no,S10
+Media vault (screenshots photos videos voice notes),counter-nostalgia,must,yes,no,redesigned v1.0.31 (S11-S12)
+Unsent message drafts in a fake chat (nothing sent),counter-nostalgia,must,yes,no,S13
+AI coach chat that knows the user's story,coach,must,yes,no,S14-S15
+Coach tone toggle gentle / tough love,coach,must,yes,no,"No-BS Mode" on site
+Relapse flow: reset streak and keep history,streak,must,yes,no,Reset & Reflect (S25)
+Crisis and abuse safety resources in coach and app,safety,must,no,no,not visible in original; required for store review and users
+AI coach voice mode,coach,should,yes,no,"AI Voice & Chat Coaching" on pricing
+Progress history and insights (streak mood milestones),progress,should,yes,no,S24
+Weekly relationship psychology insights,progress,should,yes,no,
+Challenges,home,should,yes,no,added v1.0.26 (S26)
+Toolkit of coping tools by need with favorites,heal,should,yes,no,added v1.0.40 (S19-S20)
+Guided breathwork and somatic exercises,heal,should,yes,no,S20
+Learn library of short articles with recommendations,heal,should,yes,no,content must be original (S21)
+Guided journaling with prompts,heal,should,yes,no,S23
+Daily affirmations,heal,should,yes,no,
+Structured programs / roadmap by recovery stage with daily tasks,heal,should,yes,no,S22
+Conversation Analyzer (screenshot paste or chat import),understand,should,yes,no,OCR/vision + parsing (S16-S17)
+Abuse awareness section,understand,should,yes,no,S18
+Chat simulator skins for unsent drafts,counter-nostalgia,should,yes,no,v1.0.28
+Account settings subscription management data deletion,settings,should,yes,no,S29
+Distraction videos in panic flow,panic,could,yes,no,needs own or licensed video
+Visualization audio sessions,heal,could,yes,no,S28
+Curated growth feed,heal,could,yes,no,S27
+Home screen widget with streak,home,could,no,no,not seen in original
+App lock (Face ID / passcode) for vault and journal,privacy,could,no,no,not seen in original; strong differentiator for sensitive data
+Multi-language (FR TH etc.),i18n,could,no,no,original is English only
+Mac / Vision Pro builds,platform,could,yes,no,just iPad/iPhone app running on Apple silicon
+Discord community,community,could,yes,skip,their network and members are not part of the product
+Their articles affirmations videos and programs copy,content,could,yes,skip,their content; write or license your own
+Feature names Panic Room / Evidence Vault / No-BS Mode / Sam / Kai,brand,could,yes,skip,their naming; rename in /replica-brand
+"Press would say" block and unsourced 60% stat,marketing,could,yes,skip,do not reproduce unverifiable claims
+"AI therapist" positioning,marketing,could,yes,skip,store and regulatory risk; position as a coach
+Third-party ad tracking of usage data,analytics,could,yes,skip,privacy-first is a differentiator
